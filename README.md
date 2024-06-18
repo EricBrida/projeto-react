@@ -4,7 +4,7 @@ Integrantes:
 - Eric Bueno Corrêa Brida
 
 
-Requiremnts:
+Requirements:
 - git clone https://github.com/EricBrida/projeto-react.git
 - cd projeto-reactt
 - npm i
