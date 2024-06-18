@@ -1,0 +1,10 @@
+.produtos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+  margin-top: 0;
+  padding-bottom: 60px;
+
+}

@@ -1,0 +1,27 @@
+.produto {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  justify-content: center;
+  }
+  
+  .produto img {
+    max-width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+  }
+  
+  .produto h3 {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  
+  .produto p {
+    font-size: 1em;
+    color: #888;
+  }
+  
